@@ -1,4 +1,7 @@
-# 📄 SnapText  https://github.com/NicoT111/SnapText/releases/download/OCR/SnapText.zip
+# 📄 SnapText  
+
+##Download-Link
+https://github.com/NicoT111/SnapText/releases/download/OCR/SnapText.zip
 
 **SnapText** ist eine schnelle und moderne macOS-Menüleisten-App, mit der sich Text aus Bildern und Bildschirmbereichen automatisch erkennen und kopieren lässt.
 
