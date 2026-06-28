@@ -3,8 +3,6 @@
 **SnapText** ist eine schnelle und moderne macOS-Menüleisten-App, mit der sich Text aus Bildern und Bildschirmbereichen automatisch erkennen und kopieren lässt.
 
 
-sha256:e56dfb23b67aeb150edfffb5e5fdacfe74515536c53b713401465e9e31ad2440
-
 ## ✨ Funktionen
 
 * 🖼️ Texterkennung (OCR) aus Bildern und Screenshots
