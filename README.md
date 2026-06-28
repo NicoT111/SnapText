@@ -7,6 +7,13 @@ https://github.com/NicoT111/SnapText/releases/download/OCR/SnapText.zip
 
 **SnapText** ist eine schnelle und moderne macOS-Menüleisten-App, mit der sich Text aus Bildern und Bildschirmbereichen automatisch erkennen und kopieren lässt.
 
+## Probleme beim öffnen? 
+1. Öffne Systemeinstellungen → Datenschutz & Sicherheit.
+2. Scrolle nach unten.
+3. Dort sollte stehen, dass SnapText blockiert wurde.
+4. Klicke auf “Dennoch öffnen”.
+5. Bestätige anschließend erneut mit “Öffnen”.
+
 
 ## ✨ Funktionen
 
