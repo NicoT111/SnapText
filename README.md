@@ -1,5 +1,6 @@
 # 📄 SnapText  
 
+Update erscheint 03.07.2026
 **Download-Link**
 
 https://github.com/NicoT111/SnapText/releases/download/OCR/SnapText.zip
